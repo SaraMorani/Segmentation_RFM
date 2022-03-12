@@ -1,1 +1,1 @@
-# Segmentation_RFM
+# Segmentation_on_RFMmodel
